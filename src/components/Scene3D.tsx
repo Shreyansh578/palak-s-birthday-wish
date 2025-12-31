@@ -17,19 +17,19 @@ const photos = [
     url: '/photos/her1.jpeg',
     position: [-3.5, 0.5, 0] as [number, number, number],
     rotation: [0, 0.15, 0.05] as [number, number, number],
-    message: "Your smile lights up every room you walk into. Happy Birthday, beautiful! 🌟"
+    message: "Happy Birthday, Palak! 🎂 You're not just a year older—you're a year more incredible, more radiant, and more loved than ever. Here's to celebrating the amazing person you are! 🌟"
   },
   {
     url: '/photos/her2.jpeg',
     position: [0, 0.2, 1] as [number, number, number],
     rotation: [0, 0, -0.03] as [number, number, number],
-    message: "Every moment with you is a treasure. May this year bring you endless joy! 💕"
+    message: "To the one who makes every moment magical ✨ Your laughter is music, your kindness is a gift, and your friendship is priceless. Wishing you a birthday as beautiful as your heart! 💖"
   },
   {
     url: '/photos/her3.jpeg',
     position: [3.5, 0.4, 0] as [number, number, number],
     rotation: [0, -0.12, 0.02] as [number, number, number],
-    message: "You make the world more beautiful just by being in it. Happiest Birthday, Palak! ✨"
+    message: "Palak, you light up every room you walk into! 🌸 May this new year of your life be filled with dreams coming true, adventures waiting to happen, and love surrounding you always. Happy Birthday, superstar! 🎉"
   },
 ];
 
